@@ -42,5 +42,15 @@ Here are some of the technologies and tools I work with:
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,js,html,css,tensorflow,sass,jquery,git,github,vscode,tailwind,bootstrap,figma,colab" />
 </p>
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmiraHashem&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmiraHashem&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+
+
+
+
 
 
