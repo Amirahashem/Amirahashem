@@ -34,9 +34,13 @@
 </p>
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠️ Languages and Tools
+Here are some of the technologies and tools I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,java,python,js,html,css,csharp,tensorflow,sass,jquery,github,vscode,tailwind,bootstrap,figma,colab" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,js,html,css,tensorflow,sass,jquery,git,github,vscode,tailwind,bootstrap,figma,colab" />
 </p>
+
+
+
