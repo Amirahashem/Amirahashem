@@ -34,7 +34,7 @@
 </p>
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies 
 
 Here are some of the technologies and tools I work with:
 
