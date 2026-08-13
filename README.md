@@ -6,8 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmiraHashem&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/AmiraHashem?label=Followers&style=flat-square&color=blue)](https://github.com/AmiraHashem)
+
 
 </div>
 
