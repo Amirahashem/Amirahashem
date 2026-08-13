@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+%7C+PHP+%7C+ML+%26+DL+%F0%9F%9A%80;Let's+Build+Something+Great+Together!+%E2%9C%A8" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmiraHashem&color=6a0dad&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AmiraHashem?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/Available%20for-Freelance-success?style=for-the-badge" alt="Available for Freelance"/>
+
 </div>
 
 <br/>
