@@ -1,101 +1,118 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There,%20I'm%20Amira%20Hashem%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20PHP%20|%20ML%20&%20DL%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+%7C+PHP+%7C+ML+%26+DL+%F0%9F%9A%80;Let's+Build+Something+Great!+%E2%9C%A8" alt="Typing SVG" /> <br/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There,%20I'm%20Amira%20Hashem%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20PHP%20|%20ML%20&%20DL%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=800&height=50&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+%7C+PHP+%7C+ML+%26+DL+%F0%9F%9A%80;Let's+Build+Something+Great+Together!+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmiraHashem&color=6a0dad&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/AmiraHashem?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/Available%20for-Freelance-success?style=for-the-badge" alt="Available for Freelance"/>
 
 </div>
 
----
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 👩🏻‍💻 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Full Stack Web Developer** who loves turning ideas into polished, real-world digital products. I enjoy solving problems end-to-end — from designing clean APIs to building smooth, user-friendly interfaces.
+
 ```yaml
-name: Amira Hashem
-role: Full Stack Web Developer
-location: Egypt
+name:        Amira Hashem
+role:        Full Stack Web Developer
+location:    Egypt
 education:
   - Bachelor's Degree in Information Technology
-  - Full Stack MERN Training @ Information Technology Institute (ITI)
-interests:
-  - Building impactful, user-friendly web applications
-  - Exploring Machine Learning & Deep Learning
-  - Writing clean, scalable, and accessible code
-currently_exploring:
-  - Advanced React patterns
-  - RESTful API design with PHP & Node.js
-  - Applied Machine Learning
+  - Full Stack MERN Training @ ITI
+currently_learning:
+  - Advanced React & Node.js patterns
+  - RESTful API design with PHP
+  - Applied Machine Learning & Deep Learning
+fun_fact:    I enjoy turning complex problems into simple, elegant solutions
 ```
 
-- 💻 Passionate about turning ideas into real, polished digital products
-- 🌱 Constantly learning new tools and best practices
-- 🧠 Interested in Machine Learning, Deep Learning, and smart solutions
-- 🤝 Open to collaboration on interesting Full Stack / ML projects
+- 🔭 Currently building full stack projects with the **MERN** stack & **PHP**
+- 🌱 Deepening my knowledge of **Machine Learning** & **Deep Learning**
+- 🤝 Open to collaboration on Full Stack / ML projects
+- ⚡ Fun fact: I enjoy exploring new frameworks just for the challenge
 - 📫 Reach me at **amirahashem1054@gmail.com**
 
----
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/aljomayaa/aljomayaa/main/img/hacker.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,php,python,java,html,css" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+**Frontend**
 
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,sass" />
 
-### ML / DL
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+**Backend & Databases**
 
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,firebase" />
 
----
+**Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,py" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,figma,githubactions" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiraHashem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraHashem&layout=compact&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AmiraHashem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiraHashem&layout=compact&theme=radical&hide_border=true"/>
+
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AmiraHashem&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiraHashem&theme=redical&hide_border=true" width="90%" alt="Contribution Graph"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiraHashem&theme=redical&hide_border=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -105,10 +122,26 @@ currently_exploring:
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+## 📂 Featured Projects
 
-## 📫 Connect with Me
+<div align="center">
+
+<a href="https://github.com/AmiraHashem?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiraHashem&repo=REPO_NAME_1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/AmiraHashem?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiraHashem&repo=REPO_NAME_2&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 استبدلي `REPO_NAME_1` و `REPO_NAME_2` باسم أهم مشروعين عندك على GitHub عشان تظهر كارت جميلة ليهم.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:amirahashem1054@gmail.com" target="_blank">
@@ -124,7 +157,7 @@ currently_exploring:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 **Thanks for visiting my profile! ⭐️ from you would be greatly appreciated!**
 
