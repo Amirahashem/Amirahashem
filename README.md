@@ -112,22 +112,6 @@ currently_exploring:
 
 </div>
 
----
-
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AmiraHashem?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiraHashem&repo=REPO_NAME_1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/AmiraHashem?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiraHashem&repo=REPO_NAME_2&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 استبدلي `REPO_NAME_1` و `REPO_NAME_2` باسم أهم مشروعين عندك على GitHub عشان تتعرضوا هنا بشكل جذاب.
 
 ---
 
