@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Amira%20Hashem%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20PHP%20|%20ML%20&%20DL%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+%7C+PHP+%7C+ML+%26+DL+%F0%9F%9A%80;Let's+Build+Something+Great!+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20There,%20I'm%20Amira%20Hashem%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20Stack%20|%20PHP%20|%20ML%20&%20DL%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F76C6C&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+%7C+PHP+%7C+ML+%26+DL+%F0%9F%9A%80;Let's+Build+Something+Great!+%E2%9C%A8" alt="Typing SVG" /> <br/>
 
 
 
