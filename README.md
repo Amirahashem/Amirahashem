@@ -1,70 +1,96 @@
-# Hi there, I'm Amira Hashem 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Amira%20Hashem&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MEARN%20Developer%20%7C%20AI%20%26%20Deep%20Learning%20Researcher&descAlignY=58&descAlign=50" width="100%"/>
 
-### 🚀 Full Stack MEARN Developer | AI & Deep Learning Researcher 🎓
+  <a href="https://linkedin.com/in/amira-hashem-600179221">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amirahashem1054@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-MERN%20%2F%20MEARN%20%2B%20AI-blue?style=for-the-badge" alt="Focus"/>
+</div>
 
-Passionate **Full Stack MEARN Developer** (ITI Alumna)[cite: 1, 2] and **M.Sc. Student in Information Technology**[cite: 1] with published research in Computer Vision and Deep Learning[cite: 1]. I bridge the gap between robust Web Applications and cutting-edge AI Solutions[cite: 1, 2].
+<br/>
 
----
+## 👩🏻‍💻 About Me
 
-### 💫 About Me
-- 🔭 Currently working on **Full Stack Web Applications** with integrated AI features[cite: 2].
-- 🎓 Pursuing M.Sc. in IT at Sohag University[cite: 1] | Ex-Trainee at ITI Assiut (MEARN Stack)[cite: 2].
-- 📝 Published Researcher in **Springer Nature (JEAS)** with focus on Deep Learning & Sign Language Recognition[cite: 1].
-- 👩‍🏫 Programming & Tech Instructor at **iSchool**[cite: 1].
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Angular, and Python ML/DL**[cite: 2].
+I am a **Full Stack MEARN Developer** and **M.Sc. Student in Information Technology** with published research in Computer Vision & Deep Learning. I bridge the gap between building scalable, production-ready web applications and integrating cutting-edge AI features.
 
----
-
-### 🛠️ Tech Stack & Skills
-
-**Web Development (MEARN Stack)**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**AI, Machine Learning & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Tools & Databases**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🎓 **Master of Science (M.Sc.) Student** in Information Technology at Sohag University[cite: 1]
+- 🎓 **B.Sc. in IT** from Egyptian E-Learning University (EELU) — *GPA: 3.59/4.00 (Very Good with Honors)*[cite: 1]
+- 🏫 **Full Stack MEARN Trainee** @ Information Technology Institute (ITI Assiut)
+- 📄 **Published Researcher** in *Springer Nature (JEAS)* on real-time Sign Language Recognition (CNN + YOLOv8)[cite: 1]
+- 👩‍🏫 **Programming & Technology Instructor** @ iSchool[cite: 1]
+- 🔭 **Currently Building:** Full stack web applications integrated with AI & ML solutions[cite: 2]
+- 🤝 **Open For:** Full Stack Web Development (MERN/MEARN) roles, Freelance Projects & Research Collaborations[cite: 2]
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack & Capabilities
 
-| Project | Technologies | Description |
-| :--- | :--- | :--- |
-| **[Sign Talk](https://github.com/Amirahashem)** | `YOLOv8` `TensorFlow` `Flask` `OpenCV` | Real-time gesture recognition system for deaf community (Grade: A+)[cite: 2]. |
-| **[Vanilla Bakery Store](https://github.com/Amirahashem)** | `React.js` `Tailwind CSS` `REST API` | Full-featured responsive e-commerce web application[cite: 2]. |
-| **[ML Diabetes Prediction](https://github.com/Amirahashem)** | `Python` `XGBoost` `Scikit-Learn` | Predictive ML pipeline achieving 97.3% accuracy[cite: 2, 3]. |
-| **[Face Recognition Attendance](https://github.com/Amirahashem)** | `Python` `DeepFace` `OpenCV` | Automated attendance management system using FaceNet[cite: 3]. |
+### Full Stack Web Development (MERN / MEARN)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,angular,nodejs,ts,js,html,css,tailwind,bootstrap,sass" />
+</p>
+
+### Artificial Intelligence & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black" alt="YOLOv8"/>
+</p>
+
+### Tools & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,bash" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🌟 Full Stack Web Applications
+* **Vanilla E-Commerce Store** | `React.js` `Tailwind CSS` `REST API`[cite: 2]
+  * Responsive e-commerce platform for bakery products featuring custom user and admin interfaces, full state management, and modern component architecture[cite: 2].
+* **Freelance E-Commerce Store** | `Salla` `Zoho` `WhatsApp API` `Payment Gateway`[cite: 2]
+  * Custom end-to-end e-commerce store setup with payment integrations and automated customer workflows[cite: 2].
+
+### 🤖 AI-Powered & Data Projects
+* **Sign Talk (Graduation Project - Grade: A+)** | `Python` `TensorFlow` `YOLOv8` `Flask` `OpenCV`[cite: 2]
+  * Real-time gesture recognition app supporting deaf individuals, achieving **95.7% mAP@0.5** with YOLOv8 and **99% accuracy** with custom CNN[cite: 2].
+* **ML-Based Diabetes Prediction** | `Python` `XGBoost` `Scikit-Learn` `Pandas`[cite: 2, 3]
+  * Complete ML pipeline achieving **97.3% accuracy** and 71% recall using XGBoost[cite: 3].
+* **Face Recognition Attendance System** | `Python` `DeepFace (FaceNet)` `OpenCV`[cite: 3]
+  * Automated identification system logging dynamic real-time attendance into CSV structured logs[cite: 3].
 
 ---
 
-### 📄 Peer-Reviewed Publications
-- 📖 **Advancing Real-Time Sign Language Recognition: Integrating CNN and YOLOv8 for Enhanced Communication** 
-  - *Journal of Engineering and Applied Science (JEAS), Springer Nature (2025)*[cite: 1]
-  - **IF:** 3.49 | **Q2**[cite: 1]
+## 📖 Peer-Reviewed Publications
+
+> **Advancing Real-Time Sign Language Recognition: Integrating CNN and YOLOv8 for Enhanced Communication**[cite: 1]  
+> *Journal of Engineering and Applied Science (JEAS), Springer Nature (2025)*[cite: 1]  
+> 🏷️ **Metrics:** Impact Factor: 3.49 | Q2 Journal[cite: 1]
 
 ---
 
-### 📬 Connect with Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amira-hashem-600179221)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirahashem1054@gmail.com)
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Amirahashem&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirahashem&layout=compact&theme=radical&hide_border=true"/>
+</div>
 
 ---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:amirahashem1054@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/amira-hashem-600179221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
